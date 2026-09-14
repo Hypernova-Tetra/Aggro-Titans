@@ -1,4 +1,4 @@
-# **Aggro-Titans Test** - 2026.09.12
+# **Aggro-Titans Test** - 2026.09.14
 
 * Current 7z Compressed Mod File Size: "1.07GB"
 
@@ -7,6 +7,7 @@
 #### **Aggro-Titans 1.46 - Stuff I Missed**
 
 * Fixed an issue were custom code functions weren't activating for Giganto.
+* Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
 
 
 
