@@ -45,7 +45,7 @@ Code "Giganto_Combat"
 			if (!isBSRActive)
 			{ RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 75000); }
 			else
-			{ RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 100000); }
+			{ RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 80000); }
 			
 			RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopUp, 0);
 			RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopDown, 0);
@@ -63,14 +63,14 @@ Code "Giganto_Combat"
 			}
 			else if (BossHP == 2)
 			{ 
-				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 100000);
+				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 90000);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopUp, 5);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopDown, 5);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumSonicSpecial, 10);
 			}
 			else
 			{ 
-				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 267000);
+				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.status.healthPoint, 150000);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopUp, 0);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumQuickCyloopDown, 0);
 				RFL_SET_PARAM(BossGiantConfigInfo, bossBaseConfig.dropRing.ringNumSonicSpecial, 0);

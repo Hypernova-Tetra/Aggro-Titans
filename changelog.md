@@ -8,6 +8,7 @@
 
 * Fixed an issue were custom code functions weren't activating for Giganto.
 * Fixed a visual issue where the yellow Chaos Emerald shows up during Wyvern's Missile QTE outside of the failure scene.
+* Adjusted BossRush.pac Titan HP values.
 
 
 

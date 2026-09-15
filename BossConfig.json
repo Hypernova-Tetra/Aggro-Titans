@@ -121,17 +121,17 @@
 			{
 			"DisplayName":"Low HP",
 			"Value":"1",
-			"Description":["Modified Vanilla values of HP, relatively low for starting a new game while progressing Sonic's power level. Starts at 75k HP and steadily increases up to 100k when fighting Riflebeast."]
+			"Description":["Giganto HP = 75k / Wyvern HP = 80k / Knight HP = 85k / Supreme HP = 90 or 100k / Riflebeast HP = 150k - Recommended for Starting out the game on a new save and/or with Combat Mods."]
 			},
 			{
 			"DisplayName":"Medium HP",
 			"Value":"2",
-			"Description":["A bit higher health, Titans start at 100k HP in the Story Mode only and increase overtime up to 200k by Riflebeast's encounter. Extreme Mode or a Nerfed Sonic through Combat Mods may take a bit longer here, hopefully not too much."]
+			"Description":["Giganto HP = 90k / Wyvern HP = 100k / Knight HP = 112k / Supreme HP = 133 or 150k / Riflebeast HP = 200k"]
 			},
 			{
 			"DisplayName":"High HP",
 			"Value":"0",
-			"Description":["Titans start at 200k HP in the Story Mode only and increase overtime to 400k during Riflebeast. DO NOT USE WITH COMBAT MODS THAT NERFS SONIC OR EXTREME MODE, UNLESS YOU WANT TO SPEND A COSMIC ETERNITY FIGHTING A SINGLE TITAN!"]
+			"Description":["Giganto HP = 150k / Wyvern HP = 175k / Knight HP = 182k / Supreme HP = 195 or 200k / Riflebeast HP = 250k - DO NOT USE WITH COMBAT MODS THAT NERFS SONIC OR EXTREME MODE, UNLESS YOU WANT TO SPEND A COSMIC ETERNITY FIGHTING A SINGLE TITAN!"]
 			},
 		],
 		"SonicBattle":
